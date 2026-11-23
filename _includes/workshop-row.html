@@ -1,0 +1,8 @@
+<article class="workshop-row" id="{{ workshop.year }}">
+  <h3 class="workshop-year">{{ workshop.year }}</h3>
+  <div class="workshop-info">
+    <div class="workshop-title-line"><a class="workshop-title" href="{{ workshop.url }}">EMAS {{ workshop.year }}</a><span class="edition-number">Edition {{ workshop.edition }}</span></div>
+    <p class="workshop-location">{{ workshop.location }} <span class="separator">·</span> <a href="{{ workshop.conference_url }}">AAMAS {{ workshop.year }}</a></p>
+    {% for publication in workshop.publications %}<div class="publication"><a href="{{ publication.url }}">{{ publication.title }}</a><details class="citation-details"><summary>Bibliographic details</summary><p>{{ publication.citation }}</p></details></div>{% endfor %}
+  </div>
+</article>

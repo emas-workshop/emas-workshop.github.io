@@ -1,0 +1,160 @@
+{
+  "current": [
+    {
+      "name": "Matteo Baldoni",
+      "url": "http://www.di.unito.it/~baldoni/",
+      "email": "baldoni@di.unito.it",
+      "country": "Italy",
+      "origin": "DALT"
+    },
+    {
+      "name": "Rafael C. Cardoso",
+      "url": "https://rafaelcaue.github.io/",
+      "email": "rafael.cardoso@abdn.ac.uk",
+      "country": "UK",
+      "origin": ""
+    },
+    {
+      "name": "Amit Chopra",
+      "url": "https://www.lancaster.ac.uk/staff/chopraak/",
+      "email": "akchopra.mail@gmail.com",
+      "country": "UK",
+      "origin": ""
+    },
+    {
+      "name": "Andrei Ciortea",
+      "url": "https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/c73aa5cf-e5c8-4c81-a20c-59317569b305/",
+      "email": "andrei.ciortea@unisg.ch",
+      "country": "Switzerland",
+      "origin": ""
+    },
+    {
+      "name": "Mehdi Dastani",
+      "url": "http://www.uu.nl/medewerkers/MMDastani",
+      "email": "m.m.dastani@uu.nl",
+      "country": "Netherlands",
+      "origin": "ProMAS"
+    },
+    {
+      "name": "Amal El Fallah Seghrouchni",
+      "url": "http://www-poleia.lip6.fr/~elfallah/",
+      "email": "amal.elfallah@lip6.fr",
+      "country": "France",
+      "origin": "ProMAS"
+    },
+    {
+      "name": "Brian Logan",
+      "url": "https://www.uu.nl/staff/BSLogan",
+      "email": "b.s.logan@uu.nl",
+      "country": "Netherlands",
+      "origin": ""
+    },
+    {
+      "name": "Jörg P. Müller",
+      "url": "https://meclab.in.tu-clausthal.de/members/member.php?member=joerg.mueller",
+      "email": "joerg.mueller@tu-clausthal.de",
+      "country": "Germany",
+      "origin": "AOSE"
+    },
+    {
+      "name": "Alessandro Ricci",
+      "url": "https://www.unibo.it/sitoweb/a.ricci/",
+      "email": "a.ricci@unibo.it",
+      "country": "Italy",
+      "origin": ""
+    },
+    {
+      "name": "Sebastian Rodríguez",
+      "url": "http://www.sebastianrodriguez.com.ar",
+      "email": "sebastian.rodriguez@rmit.edu.au",
+      "country": "Australia",
+      "origin": ""
+    },
+    {
+      "name": "John Thangarajah",
+      "url": "https://www.rmit.edu.au/contact/staff-contacts/academic-staff/t/thangarajah-john",
+      "email": "john.thangarajah@rmit.edu.au",
+      "country": "Australia",
+      "origin": ""
+    },
+    {
+      "name": "Danai Vachtsevanou",
+      "url": "https://pure.hud.ac.uk/en/persons/danai-vachtsevanou/",
+      "email": "D.Vachtsevanou@hud.ac.uk",
+      "country": "UK",
+      "origin": ""
+    },
+    {
+      "name": "Michael Winikoff",
+      "url": "https://people.wgtn.ac.nz/michael.winikoff",
+      "email": "michael.winikoff@vuw.ac.nz",
+      "country": "New Zealand",
+      "origin": "DALT & AOSE"
+    }
+  ],
+  "former": [
+    {
+      "name": "Rafael Bordini",
+      "url": "http://www.Minf.pucrs.br/r.bordini",
+      "email": "rafael.h.bordini@gmail.com",
+      "country": "Brazil",
+      "origin": "ProMAS"
+    },
+    {
+      "name": "Jürgen Dix",
+      "url": "https://www.ifi.tu-clausthal.de/abteilungen/computational-intelligence/members/leader/prof-dr-juergen-dix",
+      "email": "dix@tu-clausthal.de",
+      "country": "Germany",
+      "origin": "ProMAS"
+    },
+    {
+      "name": "Paolo Giorgini",
+      "url": "http://disi.unitn.it/~pgiorgio/",
+      "email": "paolo.giorgini@unitn.it",
+      "country": "Italy",
+      "origin": "AOSE"
+    },
+    {
+      "name": "Ingrid Nunes",
+      "url": "http://www.inf.ufrgs.br/~ingridnunes/",
+      "email": "ingridnunes@inf.ufrgs.br",
+      "country": "Brazil",
+      "origin": ""
+    },
+    {
+      "name": "Tran Cao Son",
+      "url": "http://www.cs.nmsu.edu/~tson/",
+      "email": "tson@cs.nmsu.edu",
+      "country": "USA",
+      "origin": "DALT"
+    },
+    {
+      "name": "M. Birna Van Riemsdijk",
+      "url": "http://mmi.tudelft.nl/~birna/",
+      "email": "m.b.vanRiemsdijk@tudelft.nl",
+      "country": "Netherlands",
+      "origin": "DALT"
+    },
+    {
+      "name": "Gerhard Weiss",
+      "url": "http://www.weiss-gerhard.info/",
+      "email": "gerhard.weiss@maastrichuniversity.nl",
+      "country": "Netherlands",
+      "origin": "AOSE"
+    },
+    {
+      "name": "Danny Weyns",
+      "url": "http://homepage.lnu.se/staff/daweaa/",
+      "email": "danny.weyns@lnu.se",
+      "country": "Sweden",
+      "origin": "AOSE"
+    },
+    {
+      "name": "Rym Zalila-Wenkstern",
+      "url": "http://www.utdallas.edu/~rmili/",
+      "email": "rymw@utdallas.edu",
+      "country": "USA",
+      "origin": ""
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+[
+  {
+    "year": 2026,
+    "edition": 14,
+    "location": "Paphos, Cyprus",
+    "url": "https://emas-workshop.github.io/2026/",
+    "conference_url": "https://cyprusconferences.org/aamas2026/",
+    "publications": [],
+    "dates": "25–26 May 2026"
+  },
+  {
+    "year": 2025,
+    "edition": 13,
+    "location": "Detroit, USA",
+    "url": "https://emas.in.tu-clausthal.de/2025",
+    "conference_url": "https://aamas2025.org/",
+    "publications": [
+      {
+        "url": "https://link.springer.com/book/10.1007/978-3-032-18011-7",
+        "title": "Post-proceedings",
+        "citation": "Sebastian Rodriguez, Lu Feng, Jörg P. Müller, eds. 13th International Workshop, EMAS 2025, Detroit, MI, USA, May 19–20, 2025, Revised Selected Papers. Vol. 16407. Springer, 2026."
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "edition": 12,
+    "location": "Auckland, New Zealand",
+    "url": "https://emas.in.tu-clausthal.de/2024",
+    "conference_url": "https://www.aamas2024-conference.auckland.ac.nz/",
+    "publications": [
+      {
+        "url": "https://link.springer.com/book/9783031711510",
+        "title": "Post-proceedings",
+        "citation": "Daniela Briola, Rafael C. Cardoso, Brian Logan, eds. 12th International Workshop, EMAS 2024, Auckland, New Zealand, May 6–7, 2024, Revised Selected Papers. Vol. 15152. Springer, 2024."
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "edition": 11,
+    "location": "London, UK",
+    "url": "https://emas.in.tu-clausthal.de/2023",
+    "conference_url": "https://aamas2023.soton.ac.uk/",
+    "publications": [
+      {
+        "url": "https://link.springer.com/book/10.1007/978-3-031-48539-8",
+        "title": "Post-proceedings",
+        "citation": "Andrei Ciortea, Mehdi Dastani, Jieting Luo, eds. Engineering Multi-Agent Systems: 11th International Workshop, EMAS 2023, London, UK, May 29–30, 2023, Revised Selected Papers. Vol. 14378. Springer, 2023."
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "edition": 10,
+    "location": "Online · Auckland, New Zealand",
+    "url": "https://emas.in.tu-clausthal.de/2022",
+    "conference_url": "https://aamas2022-conference.auckland.ac.nz",
+    "publications": [
+      {
+        "url": "https://link.springer.com/journal/10472/volumes-and-issues/92-4",
+        "title": "Special issue",
+        "citation": "Amit K. Chopra, Jürgen Dix, and Rym Zalila Wenkstern, eds. Engineering Multi-Agent Systems: 10th International Workshop, EMAS 2022, Auckland, New Zealand (online), May 9–10, 2022, Revised Selected Papers. Annals of Mathematics and Artifical Intelligence Vol. 92 No. 4. Springer, 2024."
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "edition": 9,
+    "location": "Virtual event",
+    "url": "https://emas2021.in.tu-clausthal.de",
+    "conference_url": "https://aamas2021.soton.ac.uk/",
+    "publications": [
+      {
+        "url": "https://link.springer.com/book/10.1007/978-3-030-97457-2",
+        "title": "Post-proceedings",
+        "citation": "Natasha Alechina, Matteo Baldoni, Brian Logan, eds. Engineering Multi-Agent Systems: 9th International Workshop, EMAS 2021, Virtual Event, May 3–4, 2021, Revised Selected Papers. Vol. 13190. Springer, 2022."
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "edition": 8,
+    "location": "Auckland, New Zealand",
+    "url": "https://emas2020.in.tu-clausthal.de",
+    "conference_url": "https://aamas2020.conference.auckland.ac.nz/",
+    "publications": [
+      {
+        "url": "https://doi.org/10.1007/978-3-030-66534-0",
+        "title": "Post-proceedings",
+        "citation": "Cristina Baroglio, Jomi F. Hübner, Michael Winikoff, eds. Engineering Multi-Agent Systems: 8th International Workshop, EMAS 2020, Auckland, New Zealand, May 8–9, 2020, Revised Selected Papers. Vol. 12589. Springer, 2021."
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "edition": 7,
+    "location": "Montreal, Canada",
+    "url": "http://cgi.csc.liv.ac.uk/~lad/emas2019/",
+    "conference_url": "http://aamas2019.encs.concordia.ca/",
+    "publications": [
+      {
+        "url": "https://dx.doi.org/10.1007/978-3-030-51417-4",
+        "title": "Post-proceedings",
+        "citation": "Louise A. Dennis, Rafael H. Bordini, Yves Lespérance, eds. Engineering Multi-Agent Systems: 7th International Workshop, EMAS 2019, Sao Paulo, Montreal, QC, Canada, May 13–14, 2019, Revised Selected Papers. Vol. 12058. Springer, 2020."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "edition": 6,
+    "location": "Stockholm, Sweden",
+    "url": "http://emas2018.dibris.unige.it/",
+    "conference_url": "https://www.ifaamas.org/Proceedings/aamas2018/forms/contents.htm",
+    "publications": [
+      {
+        "url": "https://dx.doi.org/10.1007/978-3-030-25693-7",
+        "title": "Post-proceedings",
+        "citation": "Danny Weyns, Viviana Mascardi, Alessandro Ricci, eds. Engineering Multi-Agent Systems - 6th International Workshop, EMAS 2018, Stockholm, Sweden, July 14-15, 2018, Revised Selected Papers. Lecture Notes in Computer Science 11375, Springer 2019."
+      },
+      {
+        "url": "https://dl.acm.org/doi/10.1145/3310013.3322175",
+        "title": "Report",
+        "citation": "Mascardi, Viviana, et al. \"Engineering Multi-Agent Systems: State of Affairs and the Road Ahead.\" ACM SIGSOFT Software Engineering Notes 44.1 (2019): 18-28."
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "edition": 5,
+    "location": "São Paulo, Brazil",
+    "url": "http://emas2017.apice.unibo.it",
+    "conference_url": "https://ifaamas.org/Proceedings/aamas2017/",
+    "publications": [
+      {
+        "url": "https://doi.org/10.1007/978-3-319-91899-0",
+        "title": "Post-proceedings",
+        "citation": "Amal El Fallah-Seghrouchni, Alessandro Ricci, Tran Cao Son, eds. Engineering Multi-Agent Systems: 5th International Workshop, EMAS 2017, Sao Paulo, Brazil, May 8-9, 2017, Revised Selected Papers. Vol. 10738. Springer, 2018."
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "edition": 4,
+    "location": "Singapore",
+    "url": "http://www.utdmavs.org/emas2016/",
+    "conference_url": "http://sis.smu.edu.sg/aamas2016",
+    "publications": [
+      {
+        "url": "https://doi.org/10.1007/978-3-319-50983-9",
+        "title": "Post-proceedings",
+        "citation": "Baldoni, Matteo, Jörg P. Müller, Ingrid Nunes, Rym Zalila-Wenkstern, eds. Engineering Multi-Agent Systems: 4th International Workshop, EMAS 2016, Singapore, Singapore, May 9-10, 2016, Revised, Selected, and Invited Papers. Vol. 10093. Springer, 2016."
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "edition": 3,
+    "location": "Istanbul, Turkey",
+    "url": "http://www.di.unito.it/~baldoni/EMAS2015/",
+    "conference_url": "https://www.ifaamas.org/AAMAS/aamas2015/",
+    "publications": [
+      {
+        "url": "http://dx.doi.org/10.1007/978-3-319-26184-3",
+        "title": "Post-proceedings",
+        "citation": "Baldoni, Matteo, Luciano Baresi, and Mehdi Dastani, eds. Engineering Multi-Agent Systems: Third International Workshop, EMAS 2015, Istanbul, Turkey, May 5, 2015, Revised, Selected, and Invited Papers. Vol. 9318. Springer, 2015."
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "edition": 2,
+    "location": "Paris, France",
+    "url": "http://emas14.wordpress.com/",
+    "conference_url": "https://ifaamas.org/Proceedings/aamas2014/",
+    "publications": [
+      {
+        "url": "http://dx.doi.org/10.1007/978-3-319-14484-9",
+        "title": "Post-proceedings",
+        "citation": "Dalpiaz, Fabiano, Jürgen Dix, and M. Birna van Riemsdijk, eds. Engineering Multi-Agent Systems: Second International Workshop, EMAS 2014, Paris, France, May 5-6, 2014, Revised Selected Papers. Vol. 8758. Springer, 2014."
+      },
+      {
+        "url": "http://www.inderscience.com/info/inarticletoc.php?jcode=ijaose&year=2016&vol=5&issue=2/3",
+        "title": "Special issue",
+        "citation": "Dalpiaz, Fabiano, Jürgen Dix, and M. Birna van Riemsdijk, eds. Special Issue on Designing, Developing and Verifying Multi-Agent System. International Journal of Agent-Oriented Software Engineering Vol. 5 No. 2/3. Inderscience, 2016."
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "edition": 1,
+    "location": "Saint Paul, USA",
+    "url": "https://emas.in.tu-clausthal.de/2013",
+    "conference_url": "https://www.ifaamas.org/Proceedings/aamas2013/forms/contents.htm",
+    "publications": [
+      {
+        "url": "http://dx.doi.org/10.1007/978-3-642-45343-4",
+        "title": "Post-proceedings",
+        "citation": "Cossentino, Massimo, Amal El Fallah Seghrouchni, and Michael Winikoff, eds. Engineering Multi-Agent Systems: First International Workshop, EMAS 2013, St. Paul, MN, USA, May 6-7, 2013, Revised Selected Papers. Vol. 8245. Springer, 2013."
+      }
+    ]
+  }
+]

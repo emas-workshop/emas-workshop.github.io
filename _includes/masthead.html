@@ -1,0 +1,16 @@
+<header class="masthead emas-masthead" id="top">
+  <div class="wrap">
+    <img class="emas-logo" src="{{ site.logo | relative_url }}" width="165" height="173" alt="EMAS — AOSE, DALT, ProMAS">
+    <div class="hero-copy">
+      <p class="eyebrow">International workshop series</p>
+      <h1 class="site-title">Engineering<br>Multi-Agent Systems</h1>
+      <p class="site-description">Advancing the engineering of autonomous agents.</p>
+    </div>
+  </div>
+  {% assign latest = site.data.workshops | first %}
+  <div class="latest-edition">
+    <div class="latest-label">Latest edition</div>
+    <div class="latest-details"><a class="latest-title" href="{{ latest.url }}">EMAS {{ latest.year }}</a><span>{{ latest.location }} <span class="separator">·</span> {{ latest.dates }} <span class="separator">·</span> Co-located with <a href="{{ latest.conference_url }}">AAMAS</a></span></div>
+    <a class="button" href="{{ latest.url }}">Visit workshop</a>
+  </div>
+</header>

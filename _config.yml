@@ -1,0 +1,37 @@
+# So Simple 3.2.0 is vendored in _layouts, _includes, _sass and assets.
+# No remote theme download is needed to build this site.
+locale: en-GB
+lang: en-GB
+title: EMAS
+name: EMAS Workshop Series
+description: Engineering Multi-Agent Systems — international workshop series.
+url: ""
+baseurl: ""
+skin: /assets/css/skins/light.css
+logo: /assets/images/emas-logo.jpg
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+sass:
+  style: compressed
+exclude:
+  - README.md
+  - LICENSE-theme.txt
+  - THEME.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - dist
+  - scripts
+  - EMAS-GitHub-Pages.zip
+  - package.json
+  - package-lock.json
+  - _config.preview.yml
+  - .openai
+  - .github
+  - .bundle
+footer_scripts:
+  - /assets/js/workshop.js

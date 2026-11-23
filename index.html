@@ -1,0 +1,45 @@
+---
+layout: workshop
+title: Engineering Multi-Agent Systems
+description: The EMAS workshop series. Explore workshops, proceedings, the steering committee, and resources for engineering multi-agent systems.
+---
+<section id="about" class="content-section about-section" aria-labelledby="about-heading">
+  <div class="section-heading"><p class="eyebrow">The workshop series</p><h2 id="about-heading">About EMAS</h2></div>
+  <div class="section-content">
+    <p class="intro">Bringing together the communities that design, build, and study multi-agent systems.</p>
+    <p>EMAS began in 2012 at the Dagstuhl seminar on <a href="http://www.dagstuhl.de/12342">Engineering Multi-Agent Systems</a>. It united three established workshops and their research communities:</p>
+    <ul class="parent-workshops">
+      <li><span class="initialism">AOSE</span><a href="http://winf.in.tu-clausthal.de/events/aose12/">Agent Oriented Software Engineering</a></li>
+      <li><span class="initialism">DALT</span><a href="http://www.di.unito.it/~baldoni/DALT-2012/">Declarative Agent Languages and Technologies</a></li>
+      <li><span class="initialism">ProMAS</span><a href="http://www.cs.uu.nl/ProMAS/">Programming Multiagent Systems</a></li>
+    </ul>
+  </div>
+</section>
+<section id="workshops" class="content-section" aria-labelledby="workshops-heading">
+  <div class="section-heading"><p class="eyebrow">Since 2013</p><h2 id="workshops-heading">Workshops</h2><p>Explore the editions and their published research.</p><a class="text-link" href="https://link.springer.com/conference/emas">All post-proceedings</a></div>
+  <div class="section-content workshop-list">
+    {% for workshop in site.data.workshops limit:3 %}{% include workshop-row.html %}{% endfor %}
+    <details class="archive-disclosure" id="earlier-editions">
+      <summary>Earlier editions <span class="summary-meta">2013–2023</span><span class="chevron" aria-hidden="true"></span></summary>
+      <div class="earlier-workshops">{% for workshop in site.data.workshops offset:3 %}{% include workshop-row.html %}{% endfor %}</div>
+    </details>
+  </div>
+</section>
+<section id="s-c" class="content-section" aria-labelledby="committee-heading">
+  <div class="section-heading"><p class="eyebrow">Our community</p><h2 id="committee-heading">Steering<br class="desktop-break"> committee</h2><p>The committee grew from the three founding workshops.</p></div>
+  <div class="section-content">
+    <ul class="people-list">{% for person in site.data.committee.current %}{% include person.html %}{% endfor %}</ul>
+    <details class="archive-disclosure former-members" id="former-members"><summary>Former members <span class="summary-meta">{{ site.data.committee.former | size }}</span><span class="chevron" aria-hidden="true"></span></summary><ul class="people-list">{% for person in site.data.committee.former %}{% include person.html %}{% endfor %}</ul></details>
+  </div>
+</section>
+<section id="work" class="content-section" aria-labelledby="resources-heading">
+  <div class="section-heading"><p class="eyebrow">From the community</p><h2 id="resources-heading">Resources</h2><p>Journal issues, projects, demos, and software shared through EMAS.</p></div>
+  <div class="section-content resource-list">
+    {% for category in site.data.resources %}
+    <details class="resource-category" id="{{ category.id }}"{% if forloop.first %} open{% endif %}>
+      <summary>{{ category.title }}<span class="summary-meta">{{ category.items | size }}</span><span class="chevron" aria-hidden="true"></span></summary>
+      <ul>{% for item in category.items %}<li>{{ item }}</li>{% endfor %}</ul>
+    </details>
+    {% endfor %}
+  </div>
+</section>

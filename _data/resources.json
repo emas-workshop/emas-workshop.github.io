@@ -1,0 +1,50 @@
+[
+  {
+    "id": "special_issues",
+    "title": "Special Journal Issues",
+    "items": [
+      "<a href=\"https://emas.in.tu-clausthal.de/res/cfp_jaamas_2019.txt\">Engineering Reliable Multi-Agent Systems</a> - Special Issue of the Journal of Autonomous Agents and Multi-Agent Systems (<a href=\"https://emas.in.tu-clausthal.de/res/cfp_jaamas_2019.txt\">CFP</a>)"
+    ]
+  },
+  {
+    "id": "projects",
+    "title": "Projects",
+    "items": [
+      "<a href=\"http://ii.tudelft.nl/coresaep/\">Core SAEP - COMPUTATIONAL REASONING FOR SOCIALLY ADAPTIVE ELECTRONIC PARTNERS</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_30.pdf\">Who's that? - Modelling Social Situations for Behaviour Support Agents</a></b> <i>Ilir Kola, Catholijn M. Jonker and M. Birna van Riemsdijk</i>"
+    ]
+  },
+  {
+    "id": "demos",
+    "title": "Demos",
+    "items": [
+      "<a href=\"https://people.cs.umu.se/~tkampik/demos/js-son\">JS-son agent programming Game of Life example</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_21.pdf\">JS-son - A Minimal JavaScript BDI Agent Library</a></b> <i>Timotheus Kampik and Juan Carlos Nieves</i>"
+    ]
+  },
+  {
+    "id": "software",
+    "title": "Software",
+    "items": [
+      "<a href=\"https://matsim.org\">MATSim (Multi-Agent Transport Simulation)</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_23.pdf\">Using MATSim as a Component in Dynamic Agent-Based Micro-Simulations</a></b> <i>Dhirendra Singh, Lin Padgham and Kai Nagel</i>"
+    ]
+  },
+  {
+    "id": "code",
+    "title": "Source Code",
+    "items": [
+      "<a href=\"https://github.com/eishub\">Environment Interface Standard (EIS)</a><br> Environments that connect to agents through EIS.",
+      "<a href=\"http://enactability.altervista.org\">Haskell Prototype</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_29.pdf\">On Enactability of Agent Interaction Protocols: Towards a Unified Approach</a></b> <i>Angelo Ferrando, Michael Winikoff, Stephen Cranefield, Frank Dignum and Viviana Mascardi</i>",
+      "<a href=\"https://github.com/VerifiableAutonomy/BDIPython\">BDIPython</a> and <a href=\"https://github.com/mcapl/mcapl\">Model Checking Agent Programming Languages Framework</a> (Explanations on branch omniscient) <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_27.pdf\">The ``Why did you do that?'' Button: Answering Why-questions for end users of Robotic Systems</a></b> <i>Vincent J. Koeman, Louise A. Dennis, Matt Webster, Michael Fisher and Koen Hindriks</i>",
+      "<a href=\"https://github.com/scranefield/jason-social-practices\">Incorporating Social Practices in BDI Agent Systems</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_25.pdf\">Incorporating social practices in BDI agent systems</a></b> <i>Stephen Cranefield and Frank Dignum</i>",
+      "<a href=\"https://github.com/agentsoz\">Several projects related to emergency evacuation simulations</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_23.pdf\">Using MATSim as a Component in Dynamic Agent-Based Micro-Simulations</a></b> <i>Dhirendra Singh, Lin Padgham and Kai Nagel</i>",
+      "<a href=\"https://github.com/TimKam/JS-son\">Light weight BDI Agent Library for JavaScript</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_21.pdf\">JS-son - A Minimal JavaScript BDI Agent Library</a></b> <i>Timotheus Kampik and Juan Carlos Nieves</i>",
+      "<a href=\"https://github.com/MichaelBosello/jacamo-rl\">BDI-RL Learning framework</a> <span class=\"resource-context\">Related paper:</span> <b><a href=\"http://cgi.csc.liv.ac.uk/~lad/emas2019/accepted/EMAS2019_paper_33.pdf\">From Programming Agents to Educating Agents – A Jason-based Framework for Integrating Learning in the Development of Cognitive Agent</a></b> <i>Michael Bosello and Alessandro Ricci</i>"
+    ]
+  },
+  {
+    "id": "Links",
+    "title": "Links",
+    "items": [
+      "<a href=\"https://en.wikipedia.org/wiki/Agent-oriented_programming\">Wikipedia article</a> on Agent-Oriented Programming"
+    ]
+  }
+]
